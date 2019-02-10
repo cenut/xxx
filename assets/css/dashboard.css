@@ -122,7 +122,7 @@ body {
 	line-height: 1.5;
 	color: #ced4da;
 	text-align: left;
-	background-color: #343b4a;
+	background-color: #000000;
 }
 [tabindex="-1"]:focus {
 	outline: 0 !important;
@@ -10287,7 +10287,7 @@ body.fixed-header .page {
 .header {
 	padding-top: .75rem;
 	padding-bottom: .75rem;
-	background: #3f4759;
+	background: #000000;
 	border-bottom: 1px solid rgba(255, 255, 255, 0.12);
 }
 .header-bg {
