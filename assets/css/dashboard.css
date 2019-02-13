@@ -11027,6 +11027,10 @@ a.bg-lime-darkest:hover, a.bg-lime-darkest:focus, button.bg-lime-darkest:hover, 
 	background-color: #0061da !important;
 	color: #fff !important;
 }
+.bg-gelap {
+	background-color: #050e23 !important;
+	color: #fff !important;
+}
 a.bg-blue:hover, a.bg-blue:focus, button.bg-blue:hover, button.bg-blue:focus {
 	background-color: #2f66b3 !important;
 }
